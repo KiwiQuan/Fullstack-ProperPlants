@@ -1,0 +1,9 @@
+.plants ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20ch, 1fr));
+  gap: 1ch;
+}
+
+.plants h2 {
+  margin-bottom: 0.5rem;
+}

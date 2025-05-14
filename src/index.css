@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  padding: 1rem;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 30ch;
+  gap: 1rem;
+  margin: 1rem 0;
+}
